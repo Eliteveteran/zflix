@@ -1,0 +1,74 @@
+untuk mendapatkan program Wine tsb(bwt yg terhubung ke internet lgsg) dapat lgsg mendownload lewat terminal yaitu dgn mengetikkan :
+
+sudo apt-get install wine
+
+nah tinggal tgu aj deh smpe proses nya selesai n program wine langsung terinstal secara otomatis.
+
+nah klo g terhubung langsung ke internet dapat download di : http://www.winehq.org/download
+
+trus klo wine ny dah di instal,tinggal instal program .exe caranya lewat terminal:
+
+1. masuk ke folder yg ada program .exe ny dgn mengetik : cd <nama_folder>
+
+2. ketikkan : wine <nama_program>.exe
+
+lalu proses instalasi berjalan seperti biasa ketika berjalan di w****s.
+
+setelah proses instalasi selesai, untuk mengakses programnya : Application–>wine–>program–> <nama_program>
+
+klo misalnya programny g muncul,tmn2 dapat mengaksesny lwt : Application–>wine–> browse c:\Drive
+
+nah disana ada folder program files, tinggal dicari deh file .exe ny. oh iya sebagai catatan program dpt digunakan jika kita masuk sebagai super user (admin), untuk menjadi superuser tinggal masuk ke terminal ketikkan :
+
+su
+
+lalu masukkan passwordny(kalo ada password).
+
+
+
+( FITUR PROGRAM )
+
+Cracked unlimited NetFlix ids
+
+    Scrape proxies
+
+    Proxyless
+
+    Easy to use
+
+    Proxy grabber
+
+    Https proxy
+
+    Netflix bulk account checker
+
+    Socks 4
+
+    Socks 5
+
+    Combo list checker
+
+    Gift card generator
+
+    Netflix account checker apk
+
+    Make handsome amount
+
+    Sell that accounts in cheap price in the market
+
+    Netflix email access checker
+
+    Mail access filter domains
+
+    Netflix valid email checker
+
+    Mail access checker
+
+    Checker netflix online
+
+
+LINK DEMO : https://anonfiles.com/33j30090y5/ZyqvI3baS3LN-2840372792_png
+LINK DOWNLOAD : https://bit.ly/3R2uyPj
+
+
+HUBUNGI KAMI : https://t.me/country221
